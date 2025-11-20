@@ -1,4 +1,4 @@
 use northwind;
 
-select *
+select count(*)
 from suppliers
